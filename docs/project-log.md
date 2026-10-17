@@ -138,7 +138,7 @@ After preprocessing:
 
 number of revies per year
 
-![number reviews per year](data/plots/Amazon_reviews_time_distribution.png)
+![number reviews per year](../data/plots/amazon_reviews_time_distribution.png)
 
 Because this dataset with 3410019 reviews is to big to perform to do preprocessing we are working on splitting the dataset to a choosen number of reviews.
 For the smaller dataset we will test if keeping the unbalanced distribution is better or distributing the number of reviews per category equally.
