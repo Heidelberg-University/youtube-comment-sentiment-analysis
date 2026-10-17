@@ -22,12 +22,12 @@ The full planning notes, data analysis and project log are in [`docs/project-log
 
 | Path | Contents |
 |---|---|
-| `modul_preparation/` | Elasticsearch access, dataset preparation and model training |
-| `experiments/` | Pipeline and hyperparameter experiments, dataset statistics, Amazon review training |
-| `data/` | Collected YouTube comments, Amazon reviews, experiment results and plots |
-| `web_application/backend/` | FastAPI service that serves the trained model and calls the YouTube API |
-| `web_application/frontend/` | Svelte and TypeScript user interface |
-| `training.py` | Entry point for training the model |
+| [`modul_preparation/`](modul_preparation/) | Elasticsearch access, dataset preparation and model training |
+| [`experiments/`](experiments/) | Pipeline and hyperparameter experiments, dataset statistics, Amazon review training |
+| [`data/`](data/) | Collected YouTube comments, Amazon reviews, experiment results and plots |
+| [`web_application/backend/`](web_application/backend/) | FastAPI service that serves the trained model and calls the YouTube API |
+| [`web_application/frontend/`](web_application/frontend/) | Svelte and TypeScript user interface |
+| [`training.py`](training.py) | Entry point for training the model |
 
 ## Getting started
 
