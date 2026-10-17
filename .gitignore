@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.venv/
+node_modules/
+modul_preparation/credentials.py
+web_application/backend/API/API_KEYS.py
